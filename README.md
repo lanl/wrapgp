@@ -16,7 +16,7 @@ Installation
 wrapgp is written in R. You can install the package locally by cloning this repository, going to the folder where it was saved, and running in R: 
 
 ```r
-install.packages("wrapgp")
+install.packages("wrapgp", repos = NULL, type = "source")
 ```
 
 License
