@@ -1,0 +1,15 @@
+Package: wrapgp
+Title: Wrapped Gaussian Process Modeling for Angular Response Data
+Version: 1.0.0.0
+Authors@R: 
+    person("Andrew", "Cooper", , "ahcooper@lanl.gov", role = c("aut", "cre"))
+Description: 
+  Contains functions for fitting, predicting, and visualizing Wrapped Gaussian Process models. Wrapped
+  models are revelant for angular response data, which assume the data-generating distribution
+  is "wrapped" around the unit circle. Gaussian Process models are flexible, non-linear models that can
+  be wrapped to accomodate the circular nature of angular response data.
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: mvtnorm, laGP, msos, circular, stats, dplyr, grDevices, methods, graphics, scales, scoringRules
+License: MIT + file LICENSE
