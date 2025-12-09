@@ -34,3 +34,4 @@ Collaborators
 - Mary Frances Dorn (<mfdorn@lanl.gov>)
 - Brendon Parsons (<bparsons@lanl.gov>)
 - Alessandro Cattaneo (<cattaneo@lanl.gov>)
+- Rollin Lakis (<rlakis@lanl.gov>)
